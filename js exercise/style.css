@@ -1,0 +1,47 @@
+.faqs__title {
+    font-family: "Work Sans", sans-serif;
+    color: rgb(12, 99, 108);
+    font-size: 2rem;
+}
+
+
+.question__one:link,
+.question__one:visited {
+    font-family: "Work Sans", sans-serif;
+    color: rgb(12, 99, 108);
+    font-size: 0.7rem;
+    text-decoration: none;
+    padding-top: 1rem;
+}
+
+.question__one:hover,
+.question__one:active {
+    color: rgb(76, 119, 124);
+}
+
+.exmp__one {
+    font-family: "Work Sans", sans-serif;
+    color:rgb(7, 173, 192);
+    font-size: 0.6rem;
+    width: 20rem;
+    line-height: 1rem;
+    margin-top: 0.7rem;
+}
+
+
+.screen {
+    width: 500px;
+    height: 600px;
+    padding-left: 2rem;
+    padding-top: 3rem;
+    position: relative;
+    background-color:rgb(190, 237, 243);
+    margin: auto;
+    margin-top: 5rem;
+    border-radius: 20px;
+}
+
+
+.hidden {
+    display: none;
+}
